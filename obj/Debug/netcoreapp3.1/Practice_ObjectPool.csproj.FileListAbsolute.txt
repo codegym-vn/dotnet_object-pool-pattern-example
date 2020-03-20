@@ -1,0 +1,11 @@
+C:\Users\nguye\Documents\CodeGym\Demo\Practice_ObjectPool\bin\Debug\netcoreapp3.1\Practice_ObjectPool.exe
+C:\Users\nguye\Documents\CodeGym\Demo\Practice_ObjectPool\bin\Debug\netcoreapp3.1\Practice_ObjectPool.deps.json
+C:\Users\nguye\Documents\CodeGym\Demo\Practice_ObjectPool\bin\Debug\netcoreapp3.1\Practice_ObjectPool.runtimeconfig.json
+C:\Users\nguye\Documents\CodeGym\Demo\Practice_ObjectPool\bin\Debug\netcoreapp3.1\Practice_ObjectPool.runtimeconfig.dev.json
+C:\Users\nguye\Documents\CodeGym\Demo\Practice_ObjectPool\bin\Debug\netcoreapp3.1\Practice_ObjectPool.dll
+C:\Users\nguye\Documents\CodeGym\Demo\Practice_ObjectPool\bin\Debug\netcoreapp3.1\Practice_ObjectPool.pdb
+C:\Users\nguye\Documents\CodeGym\Demo\Practice_ObjectPool\obj\Debug\netcoreapp3.1\Practice_ObjectPool.csprojAssemblyReference.cache
+C:\Users\nguye\Documents\CodeGym\Demo\Practice_ObjectPool\obj\Debug\netcoreapp3.1\Practice_ObjectPool.AssemblyInfoInputs.cache
+C:\Users\nguye\Documents\CodeGym\Demo\Practice_ObjectPool\obj\Debug\netcoreapp3.1\Practice_ObjectPool.AssemblyInfo.cs
+C:\Users\nguye\Documents\CodeGym\Demo\Practice_ObjectPool\obj\Debug\netcoreapp3.1\Practice_ObjectPool.dll
+C:\Users\nguye\Documents\CodeGym\Demo\Practice_ObjectPool\obj\Debug\netcoreapp3.1\Practice_ObjectPool.pdb
